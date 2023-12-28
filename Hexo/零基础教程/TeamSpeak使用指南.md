@@ -2,13 +2,12 @@
 title: TeamSpeak使用指南
 tags: [零基础,游戏]
 categories: [零基础教程]
-references:
-  - title: 九月的生活
-    url: https://blog.sakurasep.site/
 mathjax: false
 mermaid: false
 date: 2023-12-23 00:30:03
 description: 本篇文章是一篇简单的入门使用教程,后续将会更新部署教程.
+references:
+  - '[九月的生活](https://blog.sakurasep.site)'
 cover: TeamSpeak
 banner: TeamSpeak
 abbrlink: TeamSpeak

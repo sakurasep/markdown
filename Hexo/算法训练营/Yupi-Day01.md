@@ -4,8 +4,7 @@ tags: [学习笔记,鱼皮的算法通关村]
 categories: [学习笔记]
 description: 记录自己的算法学习日常
 references:
-  - title: 九月的生活
-    url: https://blog.sakurasep.site/
+  - '[九月的生活](https://blog.sakurasep.site)'
 mathjax: false
 mermaid: false
 date: 2023-09-30 16:30:46
@@ -471,6 +470,7 @@ int main()
 }
 ```
 {% endfolding %}
+
 
 ---
 
