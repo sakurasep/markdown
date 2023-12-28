@@ -12,6 +12,7 @@ date: 2023-09-30 16:30:46
 cover: miku
 banner: https://cdn.sakurasep.site/Wallpaper/10.jpg
 abbrlink: Yupi-Day01
+Hidden: false
 ---
 
 <!-- more -->

@@ -12,6 +12,7 @@ description: 本篇文章是一篇简单的入门使用教程,后续将会更新
 cover: TeamSpeak
 banner: TeamSpeak
 abbrlink: TeamSpeak
+Hidden: false
 ---
 
 # 为什么我们不再使用KOOK
